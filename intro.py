@@ -1,2 +1,2 @@
 print("Hello world")
-print("GIT VERSION 1")
+print("GIT VERSION 2")
